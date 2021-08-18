@@ -4,7 +4,7 @@ Refractor e-commerce platform from using global state React's Context API to Red
 
 ### Github : https://github.com/NMR-Code/redux-store
 
-### Website : COMING SOON!
+### Deployed App : https://nmr-redux-store.herokuapp.com/
 
 ## Description
 
